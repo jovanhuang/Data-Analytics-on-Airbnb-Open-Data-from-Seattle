@@ -1,2 +1,7 @@
-# Data-Analytics-on-Airbnb-Open-Data-from-Seattle
-Formulated a problem based on dataset, performed basic data preprocessing and data wrangling before performing exploratory data analysis and feature engineering
+# Formulated Problem
+What makes an Airbnb listing worth it?
+## Secondary problems:
+What features apart from price and reviews make an apartment "worth it"?
+How can we quantify "worth" in an accurate manner?
+Can we determine if a listing is "worth it" without looking at price?
+Does the presence of certain amenities correlate with review scores?
