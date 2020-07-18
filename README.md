@@ -11,19 +11,25 @@ Whether a listing is “worth it” is determined using a new feature: “value�
 We defined “value” as: review_scores_rating/price  
 
 # Initial preparation of dataset
-## Data formatting:
+### Data formatting:
 Convert dates to datetime format  
 Remove ‘$’ and ‘,’ from price features and convert them to float  
 Convert percentage based features to float  
 Convert true/false features to boolean format  
 Remove rows that do not have review data  
-## Process features into readable inputs  
+### Process features into readable inputs  
 Convert "last_scraped" date to the number of months since last scraped  
 One-hot encode "host_verifications" and "amenities" into a group of binary features  
 Classify dates in "calendar_updated" into more generic categories  
 
 # Further Data Wrangling
-## Data Imputation
+### Data Imputation
 Used feature’s median values to fill null values
-## Feature Selection
+### Feature Selection
 Excluded data IDs and URLs
+
+# Exploratory Data Analysis (EDA) 
+Review Score’s Analysis  
+Neighbourhood Analysis  
+Host Analysis  
+Listing Property Analysis  
