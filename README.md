@@ -22,3 +22,8 @@ Convert "last_scraped" date to the number of months since last scraped
 One-hot encode "host_verifications" and "amenities" into a group of binary features  
 Classify dates in "calendar_updated" into more generic categories  
 
+# Further Data Wrangling
+## Data Imputation
+Used feature’s median values to fill null values
+## Feature Selection
+Excluded data IDs and URLs
