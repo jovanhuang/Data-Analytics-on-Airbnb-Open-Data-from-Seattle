@@ -1,5 +1,5 @@
 # Formulated Problem
-A notebook written to answer the question of what listings on AirBnb are worh it. Rather than focus on utilising CatBoost for predictive modeling, we used CatBoost to gain an intuition of the factors which might affect the value of listings.  
+A notebook written to answer the question of what listings on AirBnb are worth it. Rather than focus on utilising CatBoost for predictive modeling, we used CatBoost to gain an intuition of the factors which might affect the value of listings.  
 
 What makes an Airbnb listing worth it?
 # Secondary problems:
